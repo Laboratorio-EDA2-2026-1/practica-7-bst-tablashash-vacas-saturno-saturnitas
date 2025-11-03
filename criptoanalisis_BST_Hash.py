@@ -181,7 +181,7 @@ def crear_zip():
         for fname in ["frecuencias_BST.csv", "mapeo_final.csv", "Reporte_Criptoanalisis.pdf", __file__]:
             if os.path.exists(fname):
                 z.write(fname)
-    print("\n[ZIP creado: Entrega_Criptoanalisis.zip] ✅")
+    print("\n[ZIP creado: Entrega_Criptoanalisis.zip] ")
 
 # ----------------------------------------------------------
 # 8. PIPELINE PRINCIPAL

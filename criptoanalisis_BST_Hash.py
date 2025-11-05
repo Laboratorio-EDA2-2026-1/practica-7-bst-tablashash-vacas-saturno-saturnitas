@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Práctica: BST y Tablas Hash (Criptoanálisis en campo)
 
@@ -228,10 +227,10 @@ def main():
     crear_zip()
 
     print("\nListo  Archivos generados:")
-    print("1️ frecuencias_BST.csv")
-    print("2️ mapeo_final.csv")
-    print("3️ Reporte_Criptoanalisis.pdf")
-    print("4️ Entrega_Criptoanalisis.zip")
+    print("1) frecuencias_BST.csv")
+    print("2) mapeo_final.csv")
+    print("3) Reporte_Criptoanalisis.pdf")
+    print("4) Entrega_Criptoanalisis.zip")
 
 if __name__ == "__main__":
     main()
